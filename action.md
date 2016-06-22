@@ -34,15 +34,15 @@
 
 
 
-### 查看卡片、区域信息
+### Check information of cards and areas
 
-1.  查看卡组（右击卡组弹出菜单/菜单栏"动作"→"查看区域"）：查看卡组，对手将能够看到这个动作，因此请只在有必要的时候使用。关闭查看卡组的窗口时要选择是否切洗卡组。
+1.  Check deck(right click on your deck to use menu / ”Action” → ”Check Areas” → ”Check Deck” in the menu bar): Check your deck. Your opponent will see this action so you may use this function only when needed. Before closing this checking window, you must choose if the deck should be shuffled.
 
-2.  查看手牌（右击手牌区空白处弹出菜单/菜单栏"动作"→"查看区域"）：以列表的形式查看手牌，对手不会看到这个动作。
+2.  Check hand(right click on your hand area’s blank to use menu / ”Action” → ”Check areas” → ”Check Hand” in the menu bar): Check your hand in a list. Your opponent won’t see this aciton.
 
-3.  查看自己或对手的退避区(双击退避区，右击退避区弹出菜单/菜单栏"动作"→"查看区域")：查看退避区的内容，对手不会看到这个动作。
+3.  Check your Retreat / opponent’s Retreat(double click on the Retreat / right click on the Retreat to use menu / ”Action” → ”Check Areas” → ”Check Retreat / Check Opponent's Retreat” in the menu bar): Check your Retreat/opponent’s Retreat. Your opponent won’t see this aciton.
 
-4.  查看羁绊区(双击羁绊区，右击羁绊区弹出菜单/菜单栏"动作"→"查看区域")：以列表的形式查看羁绊区的内容，对手不会看到这个动作。
+4.  Check your Bonds(double click on the Bonds / right click on the Bonds to use menu / ”Action” → ”Check Areas” → ”Check Bond” in the menu bar): Check your Bonds in a list. Your opponent won’t see this aciton.
 
 ### 其他常用操作
 
