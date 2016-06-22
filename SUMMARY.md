@@ -5,5 +5,4 @@
 * [Deck Edition](deckedit.md)
 * [Game](game.md)
 * [Actions and shortcuts](action.md)
-* [FAQ](questions.md)
 
