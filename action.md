@@ -2,7 +2,7 @@
 
 ### Common Actions
 
-1. Turn start(“Turn Start” button in the main window / ”Action” → ”Turn Start” in the menu bar / Ctrl+Q): Start your turn, untap all your units, and return all your bonds to the left side.
+1. Turn start("Turn Start" button in the main window / "Action" → "Turn Start" in the menu bar / Ctrl+Q): Start your turn, untap all your units, and return all your bonds to the left side.
 
 2. Draw a card(double click on your deck / right click on your deck to use menu / Ctrl+D): Draw a card.
 
@@ -10,17 +10,17 @@
 
 4. Place a card to some place(right click on your card to use menu and choose the target area): Deploy a unit, send a killed unit to Retreat, place a card in the Bonds, add cards from your deck or the Retreat to your hand, or any other actions.
 
-5. Target a unit to attack or use skills towards(right click on a card to use menu and choose “Set as Target”): Before you attack or use your skills, you may target a unit to remind your opponent.
+5. Target a unit to attack or use skills towards(right click on a card to use menu and choose "Set as Target"): Before you attack or use your skills, you may target a unit to remind your opponent.
 
-6. Attack(right click on your card to use menu and choose “Attack”): Declare a battle.
+6. Attack(right click on your card to use menu and choose "Attack"): Declare a battle.
 
-7. Use skill/support skill(right click on your card to use menu): Use a skill. You may choose one skill if a unit has a plurality of skills. If you want to active a support skill, you should choose “Use support skill”.
+7. Use skill/support skill(right click on your card to use menu): Use a skill. You may choose one skill if a unit has a plurality of skills. If you want to active a support skill, you should choose "Use support skill".
 
-8. Slide bond cards to the right side to count bonds(“Count Bond” button in the main window / ”Action” → ”Count Bond” or ”Count Bonds” in the menu bar / Ctrl+E or Ctrl+Alt+E): You may use this function to confirm whether the number of your bonds allows you to deploy/CC/Lv up a unit.
+8. Slide bond cards to the right side to count bonds("Count Bond" button in the main window / "Action" → "Count Bond" or "Count Bonds" in the menu bar / Ctrl+E or Ctrl+Alt+E): You may use this function to confirm whether the number of your bonds allows you to deploy/CC/Lv up a unit.
 
-9. Support(“Support” button in the main window / ”Action” → ”Support” / Ctrl+R): After declaring a battle, you should put the top card of your deck to the support area to support your unit. If you click this when there is a card in the support area, the supporting card will be send to the Retreat.
+9. Support("Support" button in the main window / "Action" → "Support" / Ctrl+R): After declaring a battle, you should put the top card of your deck to the support area to support your unit. If you click this when there is a card in the support area, the supporting card will be send to the Retreat.
 
-10. Declare a critical or an avoid( “CRT” or ”AVD” button in the main window): Declare a critical or an avoid action. Then you should place a certain card to the Retreat.
+10. Declare a critical or an avoid( "CRT" or "AVD" button in the main window): Declare a critical or an avoid action. Then you should place a certain card to the Retreat.
 
 11. Flip a bond(right click on your bond to use menu): Flip a bond.
 
@@ -28,21 +28,21 @@
 
 13. Move(right click on your unit to use menu): Move your unit.
 
-14. Forced match(“Action” → ”Forced Match” in the menu bar): If you are forced to match, you may use this function.
+14. Forced match("Action" → "Forced Match" in the menu bar): If you are forced to match, you may use this function.
 
-15. Shuffle your retreat to deck(double click on the empty deck/ ”Action” → ”Deck Action “→ ”Replendish Deck” in the menu bar): Shuffle the cards in the Retreat and put them in deck when your deck becomes empty.
+15. Shuffle your retreat to deck(double click on the empty deck/ "Action" → "Deck Action "→ "Replendish Deck" in the menu bar): Shuffle the cards in the Retreat and put them in deck when your deck becomes empty.
 
 
 
 ### Check information of cards and areas
 
-1.  Check deck(right click on your deck to use menu / ”Action” → ”Check Areas” → ”Check Deck” in the menu bar): Check your deck. Your opponent will see this action so you may use this function only when needed. Before closing this checking window, you must choose if the deck should be shuffled.
+1.  Check deck(right click on your deck to use menu / "Action" → "Check Areas" → "Check Deck" in the menu bar): Check your deck. Your opponent will see this action so you may use this function only when needed. Before closing this checking window, you must choose if the deck should be shuffled.
 
-2.  Check hand(right click on your hand area’s blank to use menu / ”Action” → ”Check areas” → ”Check Hand” in the menu bar): Check your hand in a list. Your opponent won’t see this aciton.
+2.  Check hand(right click on your hand area's blank to use menu / "Action" → "Check areas" → "Check Hand" in the menu bar): Check your hand in a list. Your opponent won't see this aciton.
 
-3.  Check your Retreat / opponent’s Retreat(double click on the Retreat / right click on the Retreat to use menu / ”Action” → ”Check Areas” → ”Check Retreat / Check Opponent's Retreat” in the menu bar): Check your Retreat/opponent’s Retreat. Your opponent won’t see this aciton.
+3.  Check your Retreat / opponent's Retreat(double click on the Retreat / right click on the Retreat to use menu / "Action" → "Check Areas" → "Check Retreat / Check Opponent's Retreat" in the menu bar): Check your Retreat/opponent's Retreat. Your opponent won't see this aciton.
 
-4.  Check your Bonds(double click on the Bonds / right click on the Bonds to use menu / ”Action” → ”Check Areas” → ”Check Bond” in the menu bar): Check your Bonds in a list. Your opponent won’t see this aciton.
+4.  Check your Bonds(double click on the Bonds / right click on the Bonds to use menu / "Action" → "Check Areas" → "Check Bond" in the menu bar): Check your Bonds in a list. Your opponent won't see this aciton.
 
 ### Others
 
@@ -50,11 +50,11 @@
 
 2. Reveal a hand(right click on the hand to use menu): Reveal the hand card you choose.
 
-3. Reveal hands(right click on your hand area’s blank to use menu): Reveal all your hand cards.
+3. Reveal hands(right click on your hand area's blank to use menu): Reveal all your hand cards.
 
-4. Shuffle the deck(right click on the deck to use menu / ”Action” → ”Deck Action" →  “Shuffle Deck” in the menu bar / Ctrl+F): Shuffle your deck.
+4. Shuffle the deck(right click on the deck to use menu / "Action" → "Deck Action" →  "Shuffle Deck" in the menu bar / Ctrl+F): Shuffle your deck.
 
-5. Export reports(“Game” → ”Reports” → ”Export reports” in the menu bar): Export reports in the format of txt.
+5. Export reports("Game" → "Reports" → "Export reports" in the menu bar): Export reports in the format of txt.
 
-6. Connect again(click on “Game” → ”Connection” in the menu bar): If the link breaks down during a match, you may use this function to connect again. Don’t close this program directly or you will lose your game progress.
+6. Connect again(click on "Game" → "Connection" in the menu bar): If the link breaks down during a match, you may use this function to connect again. Don't close this program directly or you will lose your game progress.
 
