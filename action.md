@@ -44,14 +44,17 @@
 
 4.  Check your Bonds(double click on the Bonds / right click on the Bonds to use menu / ”Action” → ”Check Areas” → ”Check Bond” in the menu bar): Check your Bonds in a list. Your opponent won’t see this aciton.
 
-### 其他常用操作
+### Others
 
-1.  展示卡组顶牌（右击卡组弹出菜单）：将卡组顶牌的内容公开。
+1. Reveal top card of Deck(right click on the deck to use menu): Reveal the top card of your deck.
 
-2.  展示手牌/全部手牌（右击手牌/手牌区空白处弹出菜单）：将手牌的一张或全部公开给对手。
+2. Reveal a hand(right click on the hand to use menu): Reveal the hand card you choose.
 
-3.  切洗卡组（右击卡组弹出菜单/菜单栏"动作"→"卡组操作"/Ctrl+F）：将卡组切洗。
+3. Reveal hands(right click on your hand area’s blank to use menu): Reveal all your hand cards.
 
-4.  导出战报（菜单栏"游戏"→"战报"）：将战报以txt文本文档的格式导出。
+4. Shuffle the deck(right click on the deck to use menu / ”Action” → ”Deck Action" →  “Shuffle Deck” in the menu bar / Ctrl+F): Shuffle your deck.
 
-5.  重新连接（菜单栏"游戏"→"网络连接"）：用于游戏中途网络连接断开时。请不要关闭程序，重新连接对手。
+5. Export reports(“Game” → ”Reports” → ”Export reports” in the menu bar): Export reports in the format of txt.
+
+6. Connect again(click on “Game” → ”Connection” in the menu bar): If the link breaks down during a match, you may use this function to connect again. Don’t close this program directly or you will lose your game progress.
+
