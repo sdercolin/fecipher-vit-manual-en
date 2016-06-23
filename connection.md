@@ -10,6 +10,8 @@ IP: 123.56.176.97 (may change)
 Run the main program "FECipher.exe" and type your player ID. 
 Right click on the button "Connect", and then click on "Use default server" to get the IP address.
 
+![](connection.png)
+
 For player A, right click on the button "Connect", and then click on "Find valid port". If you are able to connect to the server, the port will be filled automatically. Then click on "Connect" to connect to the server.
 For player B, type the same port number as player A got in the lower blank, and then click on "Connect".
 
@@ -19,11 +21,14 @@ You may watch battles between other players. After two players connected to the 
 
 If you cannot connect to the server, please contact the writer (sder.colin@gmail.com).
 
+
 **B.Connect to another player directly**
 
 Make sure that at least one of the players has an IP address and opening ports in the Wide Area Network. You can also use a software like Hamachi to simulate a Local Area Network.
 
 Run the main program "FECipher.exe" and type your player ID.
+
+![](connection2.png)
 
 For player A, click on "Wait" and tell player B his IP address.
 For player B, type A's IP address and click on "Connect".
