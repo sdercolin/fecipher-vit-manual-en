@@ -3,6 +3,7 @@ TCG Fire Emblem Cipher Net Battle
 
 You can play Fire Emblem Cipher TCG online with this program.
 
+![](preview.png)
 
 Version: 1.9
 
