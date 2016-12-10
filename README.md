@@ -1,5 +1,4 @@
-TCG Fire Emblem Cipher Net Battle
-=======
+# TCG Fire Emblem Cipher Net Battle
 
 You can play Fire Emblem Cipher TCG online with this program.
 
@@ -9,12 +8,11 @@ Version: 1.9
 
 Release page: [lofter](http://fecipher.lofter.com/post/1d409908_b6a49f6) [GitHub](https://github.com/sdercolin/FECipherVit)
 
-
 Copyright: © Nintendo / INTELLIGENT SYSTEMS
 
-Official Website: [http://fecipher.jp/](http://fecipher.jp/) (in Japanese)
+Official Website: [http://fecipher.jp/](http://fecipher.jp/) \(in Japanese\)
 
 Writer: sdercolin   sder.colin@gmail.com
 
-English card texts by: Tomas Tuvillo
+English data: SG FECipher, Tomas Tuvillo
 
