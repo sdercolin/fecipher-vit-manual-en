@@ -1,4 +1,4 @@
-# TCG Fire Emblem Cipher Net Battle
+# FECipherVit - TCG Fire Emblem Cipher Virtual Battle
 
 You can play Fire Emblem Cipher TCG online with this program.
 
