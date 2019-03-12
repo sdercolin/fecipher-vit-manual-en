@@ -4,33 +4,41 @@
 
 1. Turn start("Turn Start" button in the main window / "Action" → "Turn Start" in the menu bar / Ctrl+Q): Start your turn, untap all your units, and return all your bonds to the left side.
 
-2. Draw a card(double click on your deck / right click on your deck to use menu / Ctrl+D): Draw a card.
+2. Draw a card(double click on your deck / right click on your deck to use menu / Ctrl+D ; Draw more than one card Ctrl+Alt+D): Draw a card or draw a plurality of cards.
 
-3. Draw cards(right click on your deck to use menu / Ctrl+Alt+D): Draw a plurality of cards.
+3. Place a card to some place(right click on your card to use menu and choose the target area): Deploy a unit, send a killed unit to Retreat, place a card in the Bonds, add cards from your deck or the Retreat to your hand, or any other actions.Draging a card to a appointed area will be consider as the same action.
 
-4. Place a card to some place(right click on your card to use menu and choose the target area): Deploy a unit, send a killed unit to Retreat, place a card in the Bonds, add cards from your deck or the Retreat to your hand, or any other actions.
+4. Target a unit to attack or use skills towards(right click on a card to use menu and choose "Set as Target"): Before you attack or use your skills, you may target a unit to remind your opponent.
 
-5. Target a unit to attack or use skills towards(right click on a card to use menu and choose "Set as Target"): Before you attack or use your skills, you may target a unit to remind your opponent.
+5. Attack(right click on your card to use menu and choose "Attack"): Declare a battle.Draging the card into target will be considered as the same action.
 
-6. Attack(right click on your card to use menu and choose "Attack"): Declare a battle.
+6. Use skill/support skill(right click on your card to use menu): Use a skill. You may choose one skill if a unit has a plurality of skills. If you want to active a support skill, you should choose "Use support skill".Draging a card into target while pressing Ctrl will be considered as the same action.
 
-7. Use skill/support skill(right click on your card to use menu): Use a skill. You may choose one skill if a unit has a plurality of skills. If you want to active a support skill, you should choose "Use support skill".
+7. Slide bond cards to the right side to count bonds("Count Bond" button in the main window / "Action" → "Count Bond" or "Count Bonds" in the menu bar / Ctrl+E or Ctrl+Alt+E): You may use this function to confirm whether the number of your bonds allows you to deploy/CC/Lv up a unit.Recommend all players to slide right numbers of cards to right side everytime before deploy/Lv up/CC a unit so that both players can confirm.
 
-8. Slide bond cards to the right side to count bonds("Count Bond" button in the main window / "Action" → "Count Bond" or "Count Bonds" in the menu bar / Ctrl+E or Ctrl+Alt+E): You may use this function to confirm whether the number of your bonds allows you to deploy/CC/Lv up a unit.
+8. Support("Support" button in the main window / "Action" → "Support" / Ctrl+R): After declaring a battle, you should put the top card of your deck to the support area to support your unit. If you click this when there is a card in the support area, the supporting card will be send to the Retreat.
 
-9. Support("Support" button in the main window / "Action" → "Support" / Ctrl+R): After declaring a battle, you should put the top card of your deck to the support area to support your unit. If you click this when there is a card in the support area, the supporting card will be send to the Retreat.
+9. Declare a critical or an avoid( "CRT" or "AVD" button in the main window): Declare a critical or an avoid action. Then you should place a certain card to the Retreat.
 
-10. Declare a critical or an avoid( "CRT" or "AVD" button in the main window): Declare a critical or an avoid action. Then you should place a certain card to the Retreat.
+10. Flip a bond(right click on your bond to use menu): Flip a bond.
 
-11. Flip a bond(right click on your bond to use menu): Flip a bond.
+11. Tap/Untap a unit(double click on your unit/right click on your unit to use menu): Tap/Untap your unit.
 
-12. Tap/Untap a unit(double click on your unit/right click on your unit to use menu): Tap/Untap your unit.
+12. Move(right click on your unit to use menu): Move your unit.
 
-13. Move(right click on your unit to use menu): Move your unit.
+13. Forced match("Action" → "Forced Match" in the menu bar): If you are forced to match, you may use this function.
 
-14. Forced match("Action" → "Forced Match" in the menu bar): If you are forced to match, you may use this function.
+14. Shuffle your retreat to deck(double click on the empty deck/ "Action" → "Deck Action "→ "Replendish Deck" in the menu bar): Shuffle the cards in the Retreat and put them in deck when your deck becomes empty.
 
-15. Shuffle your retreat to deck(double click on the empty deck/ "Action" → "Deck Action "→ "Replendish Deck" in the menu bar): Shuffle the cards in the Retreat and put them in deck when your deck becomes empty.
+15. Change your character(right click the card you want to make it your main character):set as main character.The main character will have obvious mark under it.
+
+16. Set/remove counter(right click the card you want to set/remove a counter):set/remove counter.It will be obvious markers on cards after setting counters."one turn"counter will be removed automaticly when you excute"turn start".
+
+17. Set top cards to Retreat(right click the card on the field):set the top card of a pile of cards in Retreat.Draging the card into Retreat while pressing Ctrl will be considered as the same action.
+
+18. Action tips: While draging cards into certain areas to confirm action,there will be a tip describes the action on lower left quarter of the field,otherwise there will not.
+
+
 
 
 
