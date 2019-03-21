@@ -1,13 +1,13 @@
 # Connection
 
-1. Active main program "FECipherVit.exe" and enter your username.
-2. One of the player can connect to server: choose the server and click on "Create Room", if the Internet connects normally ,you will see the given room number on the message box after entering the game.
+1. Run the main program "FECipherVit.exe" and enter your username.
+2. Choose server and click on "Create Room".
+3. The connection window will disappear and the main window will open if you successfully connected to the server. Check your room number at the top of message box.
 
 ![](connection.png)
 
-3. Another player can now enter the given room number, click on 
-" Join Room" to finish connecting.
+3. Tell the other player the room number you have just been assigned. The other player should choose server, enter the room number, and click on "Join Room" to get connected.
 
-4. If the game connection breaks, you can use the menu ->"game"->"international connect" to reopen this game. Do not close the program directly or the game will not be able to recover.
+4. If the connection breaks during games, you may click on "game" → "connection" in the menu bar to open this window and try to connect again. Don’t close this program directly or you will lose your game progress.
 
-5. You can watch other players' battle. After they start game,you can enter their room number and click "Join Room" to watch the game.
+5. You may battles between other players by entering their room number and click on "Join Room".
