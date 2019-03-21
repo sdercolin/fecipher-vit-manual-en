@@ -1,9 +1,11 @@
 # Settings 
-1. Choose language: Three languages are available: Chinese, English ,Italian. Please choose the suitable language to play this game.
-2. Choose playmat: There are playmat to choose. Your choice won't affect your opponent's view.
-3. The size of interface : you can choose the suitable size of interface to play.
-4. Waring of cards' number: You can enter the number, when the cards' number left in your deck is less than the number then the cards' back will become red.
-5. Use the first card in your deck as your main character: If you choose this, the first card in your deck will be your main character when the game start.
-6. Sending texts while using a skill: If you choose this, the messages sended while the using the skill will contain the substance of this skill.
-7. Show cards' information in brief: If you choose this, the cards' info on the left side will show in brief when click the cards.
-8. Remember server: If you choose this, the program will remember the server last time you play the game.
+1. Choose language: Three languages are available: Chinese, English, Italian. Please choose the suitable language to play this game. Right now, only player using the same languages are able to have games.
+2. Choose playmat: Your choice won't affect your opponent's display.
+3. Window Size: Adjust the size of the main window.
+4. Deck number warning: When the number of cards in Deck is not more than your input value, the card back image of Deck will be replaced by a red one. 
+5. Use the first card in your deck as your main character: If you choose this, the first card in your deck will be your main character when the game start and you will not have to choose it everytime you start a game.
+6. Sending texts while using a skill: If you choose this, the messages sended while the using the skill will contain the detailed content of the skill.
+7. Show card info in brief: If you choose this, the card info shown on the left side will not be simplified.
+8. Remember server: If you choose this, the program will remember the server last time you connected.
+
+![](settings.png)
