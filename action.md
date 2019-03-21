@@ -1,4 +1,4 @@
-# Actions and shortcuts
+# Actions and Shortcuts
 
 ### Common Actions
 
