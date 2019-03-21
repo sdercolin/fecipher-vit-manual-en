@@ -20,4 +20,6 @@
 
 9. You may click on "Sort" button to make the contents in a clearer order, and then click on "Top" button to move your 1C main character card to the top.
 
-10. We prepared 10 Starter Decks (S01-S10) for testing.
+10. Be sure to click on "Save" button before you close this window.
+
+11. We prepared 10 Starter Decks (S01-S10) for testing.
