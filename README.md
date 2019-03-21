@@ -4,9 +4,9 @@ You can play Fire Emblem Cipher TCG online with this program.
 
 ![](preview.png)
 
-Version: 1.9
+Version: 4.0.0
 
-Release page: [lofter](http://fecipher.lofter.com/post/1d409908_b6a49f6) [GitHub](https://github.com/sdercolin/FECipherVit)
+Release page: 
 
 Copyright: © Nintendo / INTELLIGENT SYSTEMS
 
