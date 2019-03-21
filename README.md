@@ -1,6 +1,6 @@
-# FECipherVit - TCG Fire Emblem Cipher Virtual Battle
+# FECipherVit
 
-You can play Fire Emblem Cipher TCG online with this program.
+A table simulator for Fire Emblem Cipher.
 
 ![](preview.png)
 
