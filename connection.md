@@ -10,4 +10,4 @@
 
 4. If the connection breaks during games, you may click on "game" → "connection" in the menu bar to open this window and try to connect again. Don’t close this program directly or you will lose your game progress.
 
-5. You may battles between other players by entering their room number and click on "Join Room".
+5. You may watch battles between other players by entering their room number and click on "Join Room".
