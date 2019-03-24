@@ -12,6 +12,6 @@ Copyright: © Nintendo / INTELLIGENT SYSTEMS
 
 Official Website: [http://fecipher.jp/](http://fecipher.jp/) \(in Japanese\)
 
-English data: SG FECipher, Tomas Tuvillo
+English data: SG FECipher, Lackey FE0 community, Tomas Tuvillo
 
 Connect: sder.colin@gmail.com
