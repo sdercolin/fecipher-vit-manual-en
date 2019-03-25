@@ -14,4 +14,4 @@ Official Website: [http://fecipher.jp/](http://fecipher.jp/) \(in Japanese\)
 
 English data: SG FECipher, Lackey FE0 community, Tomas Tuvillo
 
-Connect: sder.colin@gmail.com
+Contact: twitter @fecipher_vit or mailto:feciphervit@outlook.com
