@@ -4,7 +4,7 @@ A table simulator for Fire Emblem Cipher.
 
 ![](preview.png)
 
-Version: 4.0.0
+Version: 4.0.2
 
 Release page: https://feciphervit.tumblr.com/
 
