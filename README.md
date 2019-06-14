@@ -4,9 +4,9 @@ A table simulator for Fire Emblem Cipher.
 
 ![](preview.png)
 
-Version: 4.0.2
+Version: 4.2.0
 
-Release page: https://feciphervit.tumblr.com/
+Release page: https://feciphervit.tumblr.com/post/183604836811/win-release
 
 Copyright: © Nintendo / INTELLIGENT SYSTEMS
 
